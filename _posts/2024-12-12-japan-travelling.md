@@ -5,7 +5,7 @@ categories: 旅行 日本
 tags: 旅游 美食
 ---
  click to have a view
-[japan travelling](assets/日本旅游.pdf)
+[japan travelling](/日本旅游.pdf/)
  If you want to track our real-time progress
 
 [click here](https://docs.qq.com/doc/DSlVHQ0ZaRWNQbHpl)
