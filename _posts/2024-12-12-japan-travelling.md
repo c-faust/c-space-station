@@ -6,7 +6,7 @@ tags: 旅游 美食
 ---
  click to have a view
 [japan travelling]
-<embed src="assets/日本旅游.pdf" width="800" height="600" type="application/pdf">
+<embed src="https://github.com/c-faust/c-space-station/tree/main/_posts/assets/日本旅游.pdf" width="800" height="600" type="application/pdf">
  If you want to track our real-time progress
 
 [click here](https://docs.qq.com/doc/DSlVHQ0ZaRWNQbHpl)
