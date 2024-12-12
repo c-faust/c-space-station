@@ -1,4 +1,4 @@
 ---
-title: Welcome to the c-faust's space station!
+title: Welcome to the C-faust's space station!
 ---
 
